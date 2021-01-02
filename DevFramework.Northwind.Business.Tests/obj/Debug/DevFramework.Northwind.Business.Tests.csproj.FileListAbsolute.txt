@@ -1,0 +1,2 @@
+C:\Users\TUGBAOLCER\source\repos\DevFramework\DevFramework.Northwind.Business.Tests\obj\Debug\DevFramework.Northwind.Business.Tests.csprojAssemblyReference.cache
+C:\Users\TUGBAOLCER\source\repos\DevFramework\DevFramework.Northwind.Business.Tests\obj\Debug\DevFramework.Northwind.Business.Tests.csproj.CoreCompileInputs.cache

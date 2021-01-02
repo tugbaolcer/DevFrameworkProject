@@ -1,0 +1,2 @@
+C:\Users\TUGBAOLCER\source\repos\DevFramework\DevFramework.Northwind.DataAccess.Tests\obj\Debug\DevFramework.Northwind.DataAccess.Tests.csprojAssemblyReference.cache
+C:\Users\TUGBAOLCER\source\repos\DevFramework\DevFramework.Northwind.DataAccess.Tests\obj\Debug\DevFramework.Northwind.DataAccess.Tests.csproj.CoreCompileInputs.cache
