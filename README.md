@@ -38,7 +38,9 @@ olmamalı, bağımlılıklar sadece abstract (soyut) kavramlara olmalıdır” �
 alt seviyelere bağımlı olmasından dolayı çıkabilecek sorunları ortadan kaldırmaktır. Yani alt seviyede yapılan herhangi bir değişikliğin 
 üst seviyede kod değişikliğine veya onun bağlılıklarının etkilenmesine engel olmaktır.	
 
+
 Kullanılan Teknolojiler:
+
 	#AutoMapper: Projelerimiz içerisinde tasarladığımız Dto,ViewModel gibi nesnelerimiz ile veritabanı tablolarımızı temsil eden 
 	entitylerimizi merkezi bir noktadan daha performanslı bir şekilde eşleştirmemize olanak sağlayan bir kütüphanedir.
 
