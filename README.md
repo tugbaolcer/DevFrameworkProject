@@ -63,6 +63,6 @@ Kullanılan Teknolojiler:
 
 	#PostSharp: Kendi Attribute’ünüzü türetmeniz için bir Base Attribute veriyor.
  
-	#log4net:Uygulamamız içerisinden mesajlarımızı loglanmak üzere logger'a gönderdikten sonra, logger uygulamanın loglama seviyesine 
+	#Log4net:Uygulamamız içerisinden mesajlarımızı loglanmak üzere logger'a gönderdikten sonra, logger uygulamanın loglama seviyesine 
 	(bu seviye konfigurasyon dosyasında tutulur) bakar. Eğer mesaj loglama seviyesinin belirlediği hassaslığa uygun ise loglanır.
 	
