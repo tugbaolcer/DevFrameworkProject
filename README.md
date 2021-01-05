@@ -10,7 +10,7 @@ karşılaşılan sorunları 5 temel prensibe dayanarak temiz ve anlaşılır kod
 değişmesi için bir ve yalnızca bir nedeni olmalıdır.Çoğu geliştiricinin sağlam ve bakımı kolay yazılım oluşturmak için 
 uyguladığı temel ilkelerden biridir. Bunu yalnızca sınıflara değil, aynı zamanda yazılım bileşenlerine ve mikro hizmetlere de 
 uygulayabiliriz.Sorumluluk ayrımı yapılmadan geliştirilen kodlarda değişikliğe gidilmesi oldukça zorlaşır ve gelişitirme 
-maliyeti fazla olan bad kod smell (kötü kokmuş kod) haline dönüşür.
+maliyeti fazla olan makarna kod haline dönüşür.
 
  #O->Open / Closed Principle (Açık ve Kapalı İlkesi):
 	Özet cümle:“Sınıflar değişikliğe kapalı ancak gelişime açık olmalıdır.
